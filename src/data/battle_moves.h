@@ -4356,7 +4356,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_WEATHER_BALL] =
     {
         .effect = EFFECT_WEATHER_BALL,
-        .power = 50,
+        .power = 75,
         .type = TYPE_NORMAL,
         .accuracy = 100,
         .pp = 10,
